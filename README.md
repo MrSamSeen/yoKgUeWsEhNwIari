@@ -31,8 +31,8 @@ A sleek, minimalistic web tool for encoding and decoding text using Morse code. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MrSamSeen/YOGESHWARI.git
-   cd YOGESHWARI
+   git clone https://github.com/MrSamSeen/yoKgUeWsEhNwIari.git
+   cd yoKgUeWsEhNwIari
    ```
 
 2. **Open in browser**
@@ -44,7 +44,7 @@ A sleek, minimalistic web tool for encoding and decoding text using Morse code. 
 ## 📁 Project Structure
 
 ```
-YOGESHWARI/
+yoKgUeWsEhNwIari/
 ├── index.html      # Main HTML structure
 ├── styles.css      # Styling and theme
 ├── script.js       # Morse code logic
